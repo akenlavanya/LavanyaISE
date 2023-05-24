@@ -91,8 +91,8 @@
         h2{
             font-size:20px;
             position:absolute;
-            top:40px;
-            left:300px;
+            top:200px;
+            left:400px;
             color:white;
         }
     </style>
