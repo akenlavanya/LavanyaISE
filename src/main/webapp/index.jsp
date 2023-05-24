@@ -4,7 +4,6 @@
 
 <head>
     <title>Restaurant</title>
-    <a href="about.html">Menu</a>
     <style>
 
         img{
@@ -99,7 +98,7 @@
     <header>
 
         <h1 class="heading">Krishna Restro</h1>
-
+        <a href="about.html">Menu</a>
     </header><br>
     <div class="images">
 
