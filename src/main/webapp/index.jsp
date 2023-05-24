@@ -88,7 +88,13 @@
             text-align:center;
 
         }
-
+        h2{
+            font-size:20px;
+            position:absolute;
+            top:40px;
+            left:300px;
+            color:white;
+        }
     </style>
 
 </head>
@@ -98,7 +104,7 @@
     <header>
 
         <h1 class="heading">Krishna Restro</h1>
-        <a href="about.html">Menu</a>
+        <a href="about.html"><h2>Menu</h2></a>
     </header><br>
     <div class="images">
 
