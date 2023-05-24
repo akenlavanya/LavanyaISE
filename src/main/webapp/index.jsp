@@ -4,7 +4,7 @@
 
 <head>
     <title>Restaurant</title>
-
+    <a href="about.html">Menu</a>
     <style>
 
         img{
@@ -34,7 +34,8 @@
 
             margin-top: 0px;
 
-            text-align:center;            
+            text-align:center;  
+            color:white;
 
         }
 
@@ -54,9 +55,9 @@
 
         footer{
 
-            height:400px;
+            height:300px;
 
-            background-color: rgb(173, 216, 230);
+            background-color: gray;
 
         }
 
@@ -80,11 +81,12 @@
 
             font-size: 25px;
 
-            color:black;
+            color:white;
 
-            margin-top: -120px;
+            margin-top: 10px;
 
             margin-left: 40px;
+            text-align:center;
 
         }
 
@@ -108,45 +110,20 @@
     </div><br><br>
 
     <div class="text">
-    Library of WIT is known for its richest collection of books and journals. It is one of the best libraries in the region. The library        functions from 8.00 a.m. to 8.00 p.m. on all working days. All the books have been classified as per Dewey Decimal classification and   are available for open access.</br></br>
-    
-    Collection: WIT Library provides services & facilities to the requirements of the Institutionals teaching & research programmes. It         has an excellent collection of reference books prescribed by Solapur University; with handbooks of Intel, Motorola and National         Semiconductor devices. The collection includes the following: Books Reference Sources- Dictionaries, Encyclopedias, Handbooks       Journals/ Periodicals (Print format): National & International domains E-Journals (IEEE, ASME, ASE, ScienceDirect) Bound Archives of        old Periodicals. Magazines / Newsletters / Newspapers Data Manuals- Motorola, Intel, National Semiconductor, etc CDs, VCDs, DVDs,       etc</br></br>
-
-    The library is structured in three sections: Issue Section, Reference Section, Reading Hall Section: The Issue Section has a vast       collection of Text Books for the needs of WIT students and faculty. Reference Section: The Reference Section has a vast collection of   rare reference books, National and International periodicals, Data Manuals, Handbooks, Encylopedias, Project & Seminar Reports, CDs.,   VCDs, etc. Reading Hall: The Reading Hall has a capacity to accommodate around 265 students at a time. Xeroxing facility is also        available during the working hours.</br></br>
-
-    We have developed our Library meticulously and there are 56625 Volumes of 21700 titles worth Rs 1.88 Lacs. During the current       academic year, 1055 books, 163 titles worth Rs 4,93,048 have been added. Besides this we have subscribed 77 National & International        journals along with 542 e-journals including Science Direct, ASME, ASE, IEEE worth Rs 19.07 Lacs. Additionally, departmental        Libraries have 1072 volumes and 899 titles, along with this we have established a Digital Library facility with 14 systems for the      students. The library has 1428 e-books titles and volumes. We have purchased VCD and course material from British Institutes for the        students over all development for business communication. Also we have purchased entrepreneurship development CD’s. To avail the        facility of advanced journals & rare books, our institute has taken the institutional membership of IIT Bombay.</br></br>
-    </div><br>
+    A restaurant is a business that prepares and serves food and drinks to customers.[1] Meals are generally served and eaten on the premises, but many restaurants also offer take-out and food delivery services. Restaurants vary greatly in appearance and offerings, including a wide variety of cuisines and service models ranging from inexpensive fast-food restaurants and cafeterias to mid-priced family restaurants, to high-priced luxury establishments.
 
     <h1 class="footer-info">
 
         <DIV style="padding-top: 30px;">
 
             <div padding: 10px;text-align: center;">
-
-                <a href="https://www.witsolapur.org/pdfs/sskulkarni.pdf" style="font-size: 25px;margin-right: 220px;">View Profile(Librarian)</a></div>
-
-
-        
-
     </h1>
 
     <footer>
 
         <DIV style="padding-top: 30px;">
 
-            <div padding: 10px;text-align: center;">
-
-                <a href="https://www.witsolapur.org/extra-curricular.php" style="font-size: 25px;margin-left: 800px;">Extra Curricular</a></div>
-
-            <div>
-
-                <a href="https://www.witsolapur.org/press-release.php" style="font-size: 25px;margin-left: 800px;">Press Release</a></div>
-
-            <div>
-
-                <a href="https://www.witsolapur.org/alumni.php" style="font-size: 25px;margin-left: 800px;">Almni</a></div>
-
-            <div class="cge-info">
+            <div class="restro-info">
 
                 Contact Us<br>
 
